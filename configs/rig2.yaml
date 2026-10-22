@@ -1,0 +1,4 @@
+DATASET:
+  TRAIN_SPLIT: [seq11, seq12, seq14, seq15, seq16, seq18, seq19, seq21]
+  VAL_SPLIT: [seq17]
+  TEST_SPLIT: [seq13, seq20]
